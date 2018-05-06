@@ -1,7 +1,7 @@
 {
   "name": "react-schema-component",
   "version": "0.0.1",
-  "description": "Schema based approach to build deep hierarchical components line menus, trees, etc.",
+  "description": "Schema based approach to build deep hierarchical components like menus, trees, etc.",
   "private": true,
   "main": "src/index.js",
   "scripts": {

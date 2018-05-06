@@ -4,7 +4,7 @@ Schema based approach to build deep hierarchical components line menus, trees, e
 
 ## Motivation
 
-Inspired by [Draft JS](https://draftjs.org/) and Slate JS(http://slatejs.org)
+Inspired by [Draft JS](https://draftjs.org/) and [Slate JS](http://slatejs.org)
 Despite of these great tools are targeted to text editing, there is one cool feature to borrow: use schema to describe content.
 
 This project tries to use the same concept to build complex hierarchical React components.

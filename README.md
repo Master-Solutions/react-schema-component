@@ -1,6 +1,6 @@
-# react-schema-component
+# react-schema-component [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
 
-Schema based approach to build deep hierarchical components line menus, trees, etc.
+POC for schema based approach to build deep hierarchical components line menus, trees, etc. Don't use it production ready projects yet!
 
 ## Motivation
 
@@ -85,3 +85,13 @@ We could have just something like this:
 ```
 
 Using this package, it's easier to create containers, connect data to Redux or something else. 
+
+## To be implemented
+1. Expose stateChanged with data about the current Value, node info where it happened, event type, etc.
+2. Examples for nested menus, trees, composite forms, wizards, etc.
+
+## Contributing
+
+### License
+
+react-schema-component is [MIT licensed](./LICENSE).

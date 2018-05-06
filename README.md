@@ -73,3 +73,15 @@ const items = [
 
 <Menu items={items} />
 ```
+
+## Why it is needed
+
+We could have just something like this:
+```jsx
+<Menu>
+    <MenuItem name="Home" path="/" />
+    <MenuItem name="About" path="/about" />
+</Menu>
+```
+
+Using this package, it's easier to create containers, connect data to Redux or something else. 

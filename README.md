@@ -1,6 +1,6 @@
 # react-schema-component [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Master-Solutions/react-schema-component/blob/master/LICENSE)
 
-POC for schema based approach to build deep hierarchical components line menus, trees, etc. Don't use it production ready projects yet!
+POC for schema based approach to build deep hierarchical components line menus, trees, etc. Don't use it in production ready projects yet!
 
 ## Motivation
 

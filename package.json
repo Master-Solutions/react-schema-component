@@ -1,0 +1,27 @@
+{
+  "name": "react-schema-component",
+  "version": "0.0.1",
+  "description": "Schema based approach to build deep hierarchical components line menus, trees, etc.",
+  "private": true,
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dmitry Boltrushko",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
+  },
+  "devDependencies": {
+    "babel-jest": "^22.4.3",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "jest": "^22.4.3"
+  },
+  "jest": {
+    "setupTestFrameworkScriptFile": "./tests/setup.js"
+  }
+}
